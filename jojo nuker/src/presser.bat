@@ -1,5 +1,5 @@
 @echo off
-title Presser Beta
+title gojo Beta
 echo Please wait...
 node index.js
 pause
