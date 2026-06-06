@@ -1,8 +1,6 @@
 # jojo Server Nuker
 
-| Presser | 
-| ------------- | 
-| ![Presser](https://media.discordapp.net/attachments/840525480331575328/886687168452509786/unknown.png) |
+
 
 ![](https://img.shields.io/github/watchers/17teen/Discord-Presser-Server-Nuker?style=social) ![](https://img.shields.io/github/stars/17teen/Discord-Presser-Server-Nuker?style=social) ![](https://img.shields.io/github/forks/17teen/Discord-Presser-Server-Nuker?style=social)
 
