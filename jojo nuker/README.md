@@ -59,7 +59,7 @@
 
 ## Start-up:
 
-1. Navigate to the "src" folder, run the `presser.bat` file.
+1. Navigate to the "src" folder, run the `gojo.bat` file.
 
 # Disclaimer
 
