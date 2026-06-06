@@ -1,4 +1,4 @@
-# [OUTDATED] Presser: jojo Server Nuker
+# jojo Server Nuker
 
 | Presser | 
 | ------------- | 
